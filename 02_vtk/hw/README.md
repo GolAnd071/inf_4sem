@@ -1,4 +1,6 @@
 # Video links (YouTube)
-scalar function: https://youtu.be/8-W0WdzCzsQ
+scalar function: https://youtu.be/0vZ_Hzb-iAE
 
-velocity distribution: https://youtu.be/Rffkeo598_I
+velocity distribution: https://youtu.be/xnJ9CuMwwaY
+
+slice: https://youtu.be/UsrafpkghxM
